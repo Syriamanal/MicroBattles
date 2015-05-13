@@ -14,8 +14,11 @@ use pocketmine\utils\TextFormat;
 use pocketmine\command\CommandExecutor;
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
-
+class Main extends PluginBase implements Listener {
+  
 public function onEnable(){
 
 }
+
 }
+
